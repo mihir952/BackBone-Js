@@ -1,0 +1,183 @@
+[
+    {
+      "data-category": "Chair",
+      "image": "./Assest/chair.jpeg",
+      "price": "₹99.99",
+      "type": "Chair"
+    },
+    {
+      "data-category": "Sofa",
+      "image": "./Assest/sofa.jpeg",
+      "price": "₹99.99",
+      "type": "Sofa"
+    },
+    {
+      "data-category": "Sofa",
+      "image": "./Assest/sofa.jpeg",
+      "price": "₹99.99",
+      "type": "Sofa"
+    },
+    {
+      "data-category": "Plastic Items",
+      "image": "./Assest/plastic chair.jpeg",
+      "price": "₹99.99",
+      "type": "Plastic Items"
+    },
+    {
+      "data-category": "Chair",
+      "image": "./Assest/chair.jpeg",
+      "price": "₹99.99",
+      "type": "Chair"
+    },
+    {
+      "data-category": "Sofa",
+      "image": "./Assest/sofa.jpeg",
+      "price": "₹99.99",
+      "type": "Sofa"
+    },
+    {
+      "data-category": "Table",
+      "image": "./Assest/Table.jpeg",
+      "price": "₹99.99",
+      "type": "Table"
+    },
+    {
+      "data-category": "Plastic Items",
+      "image": "./Assest/plastic chair.jpeg",
+      "price": "₹99.99",
+      "type": "Plastic Items"
+    },
+    {
+      "data-category": "Godrej",
+      "image": "./Assest/almirah1.jpeg",
+      "price": "₹99.99",
+      "type": "Godrej"
+    },
+    {
+      "data-category": "Godrej",
+      "image": "./Assest/almirah.png",
+      "price": "₹99.99",
+      "type": "Godrej"
+    },
+    {
+      "data-category": "Sofa",
+      "image": "./Assest/sofa.jpeg",
+      "price": "₹99.99",
+      "type": "Sofa"
+    },
+    {
+      "data-category": "Chair",
+      "image": "./Assest/chair.jpeg",
+      "price": "₹99.99",
+      "type": "Chair"
+    },
+    {
+      "data-category": "Plastic Items",
+      "image": "./Assest/plastic chair.jpeg",
+      "price": "₹99.99",
+      "type": "Plastic Items"
+    },
+    {
+      "data-category": "Table",
+      "image": "./Assest/Table.jpeg",
+      "price": "₹99.99",
+      "type": "Table"
+    },
+    {
+      "data-category": "Table",
+      "image": "./Assest/Table.jpeg",
+      "price": "₹99.99",
+      "type": "Table"
+    },
+    {
+      "data-category": "Bed",
+      "image": "./Assest/bed.jpeg",
+      "price": "₹299.99",
+      "type": "Bed"
+    },
+    {
+      "data-category": "Godrej",
+      "image": "./Assest/almirah1.jpeg",
+      "price": "₹99.99",
+      "type": "Godrej"
+    },
+    {
+      "data-category": "Table",
+      "image": "./Assest/Table.jpeg",
+      "price": "₹99.99",
+      "type": "Table"
+    },
+    {
+      "data-category": "Chair",
+      "image": "./Assest/chair.jpeg",
+      "price": "₹99.99",
+      "type": "Chair"
+    },
+    {
+      "data-category": "Dining Set",
+      "image": "./Assest/Dining set.png",
+      "price": "₹99.99",
+      "type": "Dining Set"
+    },
+    {
+      "data-category": "Table",
+      "image": "./Assest/Table.jpeg",
+      "price": "₹99.99",
+      "type": "Table"
+    },
+    {
+      "data-category": "Sofa",
+      "image": "./Assest/sofa.jpeg",
+      "price": "₹99.99",
+      "type": "Sofa"
+    },
+    {
+      "data-category": "Dining Set",
+      "image": "./Assest/Dining set.png",
+      "price": "₹99.99",
+      "type": "Dining Set"
+    },
+    {
+      "data-category": "Bed",
+      "image": "./Assest/bed.jpeg",
+      "price": "₹99.99",
+      "type": "Bed"
+    },
+    {
+      "data-category": "Dining Set",
+      "image": "./Assest/Dining set.png",
+      "price": "₹99.99",
+      "type": "Dining Set"
+    },
+    {
+      "data-category": "Box",
+      "image": "./Assest/Box.jpeg",
+      "price": "₹99.99",
+      "type": "Box"
+    },
+    {
+      "data-category": "Box",
+      "image": "./Assest/Box.jpeg",
+      "price": "₹99.99",
+      "type": "Box"
+    },
+    {
+      "data-category": "Box",
+      "image": "./Assest/Box.jpeg",
+      "price": "₹99.99",
+      "type": "Box"
+    },
+    {
+      "data-category": "Others",
+      "image": "./Assest/dressing table1.jpeg",
+      "price": "₹99.99",
+      "type": "Others"
+    },
+    {
+      "data-category": "Others",
+      "image": "./Assest/dressing table2.jpeg",
+      "price": "₹99.99",
+      "type": "Others"
+    }
+  ]
+  

@@ -1,0 +1,14 @@
+const numbers = [1, 2, 3, 4];
+const doubled = numbers.map(item=>item*2);
+console.log(doubled); 
+const even=numbers.filter(idx=>idx%2==0)
+console.log(even)
+const students = [
+  { name: 'Quincy', grade: 96 },
+  { name: 'Jason', grade: 84 },
+  { name: 'Alexis', grade: 100 },
+  { name: 'Sam', grade: 65 },
+  { name: 'Katie', grade: 90 }
+];
+const topper=students.filter(students=>students.grade>=90)
+console.log(topper)

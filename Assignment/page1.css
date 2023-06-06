@@ -1,0 +1,42 @@
+#cont{
+    height: 100%;
+    margin: 60px auto;
+    border: 2px solid rgb(210, 207, 207);
+    padding: 20px;
+    background-color:lightblue;
+    position: relative; 
+}
+
+@media only screen and (max-width: 600px) {
+    #cont{
+        flex-wrap : wrap
+    }
+}
+#main{
+    display: flex;
+}
+#cont2{
+    width: 630px;
+    height: 300px;
+    margin: 60px auto; 
+    padding: 20px;
+    margin-top: auto;
+    border: 1px solid grey;
+    
+   
+    
+}
+.right{
+    float: right;
+}
+.left{
+    /* float: right;
+    position: relative; */
+    /* bottom: -60px;
+    right: 30px; */
+    /* bottom: 0px; */
+   /* margin-top: auto; */
+   display: flex;
+   justify-content: end;    
+   margin-top: auto;
+} 
